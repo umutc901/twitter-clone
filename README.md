@@ -67,3 +67,4 @@ If you would like to remove the example code:
 Click an emoji to tell us.
 
 <!-- END GENERATED SECTION DO NOT EDIT -->
+#twitter-clone
